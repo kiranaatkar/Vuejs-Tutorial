@@ -25,7 +25,7 @@ export default {
   data() {
     return {
       text: '',
-      date: '',
+      day: '',
       reminder: false,
     };
   },
